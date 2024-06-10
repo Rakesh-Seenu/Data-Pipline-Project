@@ -1,4 +1,4 @@
-# Data-Pipline-Project
+# Data-Pipeline-Project
 
 ## Overview
 This project involves building a data pipeline to fetch, process, and store data using Python scripts and Docker. The pipeline includes steps for fetching data from a source, processing the data, and storing it in a BigQuery database. Additionally, the data is fed into Tableau for visualization. The project utilizes Docker for containerization to ensure reproducibility and ease of deployment.
