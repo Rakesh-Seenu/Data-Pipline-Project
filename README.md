@@ -9,6 +9,9 @@ This project involves building a data pipeline to fetch, process, and store data
 - **pipeline.py:** Script to define and execute the data pipeline.
 - **docker-compose.yaml:** Docker Compose file to set up and run the services.
 
+![image](https://github.com/Rakesh-Seenu/Data-Pipline-Project/assets/126412041/370f1dfb-d6ee-4322-8d70-9b5d7251bf0f)
+
+
 ## Features
 - **Data Fetching:** Fetches data from a specified source using `data_fetch.py`.
 - **Data Processing:** Processes the fetched data to prepare it for storage.
